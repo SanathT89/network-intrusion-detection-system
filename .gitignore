@@ -1,0 +1,16 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+logs/*_alerts.json
+captures/real_*.pcap
+captures/real_*.pcapng
+*.tmp
+*.log
+.vscode/
+.idea/
